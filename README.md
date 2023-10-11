@@ -5,7 +5,7 @@ This repository contains a Jekyll website integrated with a DatoCMS site. The si
 Content stored in a DatoCMS site gets translated into local Jekyll files using a Ruby gem called `dato` you need to add to your Jekyll project. The translation rules are defined in file placed in your project root folder called [dato.config.rb](https://github.com/datocms/jekyll-example/blob/master/dato.config.rb).
 
 To read more about the `dato` gem, please refer to [its documentation](https://www.datocms.com/docs/jekyll).
-
+ssss
 ## Usage
 
 Click the following button to set up a project on DatoCMS with the schema and data that you need to run this example.
