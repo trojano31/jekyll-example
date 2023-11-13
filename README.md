@@ -8,7 +8,7 @@ To read more about the `dato` gem, please refer to [its documentation](https://w
 ssss
 ## Usage
 
-Click the following button to set up a project on DatoCMS with the schema and data that you need to run this example.
+Click the following button to set up a asdproject on DatoCMS with the schema and data that you need to run this example.
 
 [![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/jekyll-example)
 
